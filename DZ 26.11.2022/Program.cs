@@ -27,7 +27,7 @@ namespace DZ_26._11._2022
             gameslide.PlayGame(teams, games);
             SupergameClass supergame = new SupergameClass();
             supergame.PlayGame(teams,games);
-
+             
 
 
 
